@@ -1,0 +1,201 @@
+PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked,FamilySize,IsAlone,Deck,AgeGroup,Fare_log1p
+1,0,3,"Braund, Mr. Owen Harris",male,22.0,1,0,A/5 21171,7.25,Unknown,S,2,0,Unknown,Adult,2.1102132003465894
+2,1,1,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,38.0,1,0,PC 17599,71.2833,C85,C,2,0,C,Adult,4.2805931204649
+3,1,3,"Heikkinen, Miss. Laina",female,26.0,0,0,STON/O2. 3101282,7.925,Unknown,S,1,1,Unknown,Adult,2.188856327665703
+4,1,1,"Futrelle, Mrs. Jacques Heath (Lily May Peel)",female,35.0,1,0,113803,53.1,C123,S,2,0,C,Adult,3.9908341858524357
+5,0,3,"Allen, Mr. William Henry",male,35.0,0,0,373450,8.05,Unknown,S,1,1,Unknown,Adult,2.2027647577118348
+6,0,3,"Moran, Mr. James",male,28.0,0,0,330877,8.4583,Unknown,Q,1,1,Unknown,Adult,2.246892662898172
+7,0,1,"McCarthy, Mr. Timothy J",male,54.0,0,0,17463,51.8625,E46,S,1,1,E,MiddleAge,3.967694202798607
+8,0,3,"Palsson, Master. Gosta Leonard",male,2.0,3,1,349909,21.075,Unknown,S,5,0,Unknown,Child,3.0944457464900235
+9,1,3,"Johnson, Mrs. Oscar W (Elisabeth Vilhelmina Berg)",female,27.0,0,2,347742,11.1333,Unknown,S,3,0,Unknown,Adult,2.495953738718064
+10,1,2,"Nasser, Mrs. Nicholas (Adele Achem)",female,14.0,1,0,237736,30.0708,Unknown,C,2,0,Unknown,Teen,3.436268471383741
+11,1,3,"Sandstrom, Miss. Marguerite Rut",female,4.0,1,1,PP 9549,16.7,G6,S,3,0,G,Child,2.8735646395797834
+12,1,1,"Bonnell, Miss. Elizabeth",female,58.0,0,0,113783,26.55,C103,S,1,1,C,MiddleAge,3.3160025355989236
+13,0,3,"Saundercock, Mr. William Henry",male,20.0,0,0,A/5. 2151,8.05,Unknown,S,1,1,Unknown,Teen,2.2027647577118348
+14,0,3,"Andersson, Mr. Anders Johan",male,39.0,1,5,347082,31.275,Unknown,S,7,0,Unknown,Adult,3.4742929367327062
+15,0,3,"Vestrom, Miss. Hulda Amanda Adolfina",female,14.0,0,0,350406,7.8542,Unknown,S,1,1,Unknown,Teen,2.180891922715322
+16,1,2,"Hewlett, Mrs. (Mary D Kingcome)",female,55.0,0,0,248706,16.0,Unknown,S,1,1,Unknown,MiddleAge,2.833213344056216
+17,0,3,"Rice, Master. Eugene",male,2.0,4,1,382652,29.125,Unknown,Q,6,0,Unknown,Child,3.405355391810819
+18,1,2,"Williams, Mr. Charles Eugene",male,28.0,0,0,244373,13.0,Unknown,S,1,1,Unknown,Adult,2.6390573296152584
+19,0,3,"Vander Planke, Mrs. Julius (Emelia Maria Vandemoortele)",female,31.0,1,0,345763,18.0,Unknown,S,2,0,Unknown,Adult,2.9444389791664403
+20,1,3,"Masselmani, Mrs. Fatima",female,28.0,0,0,2649,7.225,Unknown,C,1,1,Unknown,Adult,2.1071782966514356
+21,0,2,"Fynney, Mr. Joseph J",male,35.0,0,0,239865,26.0,Unknown,S,1,1,Unknown,Adult,3.295836866004329
+22,1,2,"Beesley, Mr. Lawrence",male,34.0,0,0,248698,13.0,D56,S,1,1,D,Adult,2.6390573296152584
+23,1,3,"McGowan, Miss. Anna ""Annie""",female,15.0,0,0,330923,8.0292,Unknown,Q,1,1,Unknown,Teen,2.2004637699272855
+24,1,1,"Sloper, Mr. William Thompson",male,28.0,0,0,113788,35.5,A6,S,1,1,A,Adult,3.597312260588446
+25,0,3,"Palsson, Miss. Torborg Danira",female,8.0,3,1,349909,21.075,Unknown,S,5,0,Unknown,Child,3.0944457464900235
+26,1,3,"Asplund, Mrs. Carl Oscar (Selma Augusta Emilia Johansson)",female,38.0,1,5,347077,31.3875,Unknown,S,7,0,Unknown,Adult,3.4777725458882283
+27,0,3,"Emir, Mr. Farred Chehab",male,28.0,0,0,2631,7.225,Unknown,C,1,1,Unknown,Adult,2.1071782966514356
+28,0,1,"Fortune, Mr. Charles Alexander",male,19.0,3,2,19950,263.0,C23 C25 C27,S,6,0,C,Teen,5.575949103146316
+29,1,3,"O'Dwyer, Miss. Ellen ""Nellie""",female,28.0,0,0,330959,7.8792,Unknown,Q,1,1,Unknown,Adult,2.1837114628556327
+30,0,3,"Todoroff, Mr. Lalio",male,28.0,0,0,349216,7.8958,Unknown,S,1,1,Unknown,Adult,2.1855792552411137
+31,0,1,"Uruchurtu, Don. Manuel E",male,40.0,0,0,PC 17601,27.7208,Unknown,C,1,1,Unknown,Adult,3.357621598945279
+32,1,1,"Spencer, Mrs. William Augustus (Marie Eugenie)",female,28.0,1,0,PC 17569,146.5208,B78,C,2,0,B,Adult,4.993969182787072
+33,1,3,"Glynn, Miss. Mary Agatha",female,28.0,0,0,335677,7.75,Unknown,Q,1,1,Unknown,Adult,2.169053700369523
+34,0,2,"Wheadon, Mr. Edward H",male,66.0,0,0,C.A. 24579,10.5,Unknown,S,1,1,Unknown,Senior,2.4423470353692043
+35,0,1,"Meyer, Mr. Edgar Joseph",male,28.0,1,0,PC 17604,82.1708,Unknown,C,2,0,Unknown,Adult,4.420896324687287
+36,0,1,"Holverson, Mr. Alexander Oskar",male,42.0,1,0,113789,52.0,Unknown,S,2,0,Unknown,MiddleAge,3.970291913552122
+37,1,3,"Mamee, Mr. Hanna",male,28.0,0,0,2677,7.2292,Unknown,C,1,1,Unknown,Adult,2.1076888046179385
+38,0,3,"Cann, Mr. Ernest Charles",male,21.0,0,0,A./5. 2152,8.05,Unknown,S,1,1,Unknown,Adult,2.2027647577118348
+39,0,3,"Vander Planke, Miss. Augusta Maria",female,18.0,2,0,345764,18.0,Unknown,S,3,0,Unknown,Teen,2.9444389791664403
+40,1,3,"Nicola-Yarred, Miss. Jamila",female,14.0,1,0,2651,11.2417,Unknown,C,2,0,Unknown,Teen,2.5048481563289
+41,0,3,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",female,40.0,1,0,7546,9.475,Unknown,S,2,0,Unknown,Adult,2.348991465808201
+42,0,2,"Turpin, Mrs. William John Robert (Dorothy Ann Wonnacott)",female,27.0,1,0,11668,21.0,Unknown,S,2,0,Unknown,Adult,3.091042453358316
+43,0,3,"Kraeff, Mr. Theodor",male,28.0,0,0,349253,7.8958,Unknown,C,1,1,Unknown,Adult,2.1855792552411137
+44,1,2,"Laroche, Miss. Simonne Marie Anne Andree",female,3.0,1,2,SC/Paris 2123,41.5792,Unknown,C,4,0,Unknown,Child,3.7513658711253766
+45,1,3,"Devaney, Miss. Margaret Delia",female,19.0,0,0,330958,7.8792,Unknown,Q,1,1,Unknown,Teen,2.1837114628556327
+46,0,3,"Rogers, Mr. William John",male,28.0,0,0,S.C./A.4. 23567,8.05,Unknown,S,1,1,Unknown,Adult,2.2027647577118348
+47,0,3,"Lennon, Mr. Denis",male,28.0,1,0,370371,15.5,Unknown,Q,2,0,Unknown,Adult,2.803360380906535
+48,1,3,"O'Driscoll, Miss. Bridget",female,28.0,0,0,14311,7.75,Unknown,Q,1,1,Unknown,Adult,2.169053700369523
+49,0,3,"Samaan, Mr. Youssef",male,28.0,2,0,2662,21.6792,Unknown,C,3,0,Unknown,Adult,3.1214482048688246
+50,0,3,"Arnold-Franchi, Mrs. Josef (Josefine Franchi)",female,18.0,1,0,349237,17.8,Unknown,S,2,0,Unknown,Teen,2.9338568698359038
+51,0,3,"Panula, Master. Juha Niilo",male,7.0,4,1,3101295,39.6875,Unknown,S,6,0,Unknown,Child,3.705920919968788
+52,0,3,"Nosworthy, Mr. Richard Cater",male,21.0,0,0,A/4. 39886,7.8,Unknown,S,1,1,Unknown,Adult,2.174751721484161
+53,1,1,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",female,49.0,1,0,PC 17572,76.7292,D33,C,2,0,D,MiddleAge,4.353230991152628
+54,1,2,"Faunthorpe, Mrs. Lizzie (Elizabeth Anne Wilkinson)",female,29.0,1,0,2926,26.0,Unknown,S,2,0,Unknown,Adult,3.295836866004329
+55,0,1,"Ostby, Mr. Engelhart Cornelius",male,65.0,0,1,113509,61.9792,B30,C,2,0,B,Senior,4.142804513146981
+56,1,1,"Woolner, Mr. Hugh",male,28.0,0,0,19947,35.5,C52,S,1,1,C,Adult,3.597312260588446
+57,1,2,"Rugg, Miss. Emily",female,21.0,0,0,C.A. 31026,10.5,Unknown,S,1,1,Unknown,Adult,2.4423470353692043
+58,0,3,"Novel, Mr. Mansouer",male,28.5,0,0,2697,7.2292,Unknown,C,1,1,Unknown,Adult,2.1076888046179385
+59,1,2,"West, Miss. Constance Mirium",female,5.0,1,2,C.A. 34651,27.75,Unknown,S,4,0,Unknown,Child,3.3586377672433594
+60,0,3,"Goodwin, Master. William Frederick",male,11.0,5,2,CA 2144,46.9,Unknown,S,8,0,Unknown,Child,3.8691155044168695
+61,0,3,"Sirayanian, Mr. Orsen",male,22.0,0,0,2669,7.2292,Unknown,C,1,1,Unknown,Adult,2.1076888046179385
+62,1,1,"Icard, Miss. Amelie",female,38.0,0,0,113572,80.0,B28,S,1,1,B,Adult,4.394449154672439
+63,0,1,"Harris, Mr. Henry Birkhardt",male,45.0,1,0,36973,83.475,C83,S,2,0,C,MiddleAge,4.436455632600354
+64,0,3,"Skoog, Master. Harald",male,4.0,3,2,347088,27.9,Unknown,S,6,0,Unknown,Child,3.3638415951183864
+65,0,1,"Stewart, Mr. Albert A",male,28.0,0,0,PC 17605,27.7208,Unknown,C,1,1,Unknown,Adult,3.357621598945279
+66,1,3,"Moubarek, Master. Gerios",male,28.0,1,1,2661,15.2458,Unknown,C,3,0,Unknown,Adult,2.7878344138303452
+67,1,2,"Nye, Mrs. (Elizabeth Ramell)",female,29.0,0,0,C.A. 29395,10.5,F33,S,1,1,F,Adult,2.4423470353692043
+68,0,3,"Crease, Mr. Ernest James",male,19.0,0,0,S.P. 3464,8.1583,Unknown,S,1,1,Unknown,Teen,2.2146605719425225
+69,1,3,"Andersson, Miss. Erna Alexandra",female,17.0,4,2,3101281,7.925,Unknown,S,7,0,Unknown,Teen,2.188856327665703
+70,0,3,"Kink, Mr. Vincenz",male,26.0,2,0,315151,8.6625,Unknown,S,3,0,Unknown,Adult,2.2682524139135403
+71,0,2,"Jenkin, Mr. Stephen Curnow",male,32.0,0,0,C.A. 33111,10.5,Unknown,S,1,1,Unknown,Adult,2.4423470353692043
+72,0,3,"Goodwin, Miss. Lillian Amy",female,16.0,5,2,CA 2144,46.9,Unknown,S,8,0,Unknown,Teen,3.8691155044168695
+73,0,2,"Hood, Mr. Ambrose Jr",male,21.0,0,0,S.O.C. 14879,73.5,Unknown,S,1,1,Unknown,Adult,4.310799125385514
+74,0,3,"Chronopoulos, Mr. Apostolos",male,26.0,1,0,2680,14.4542,Unknown,C,2,0,Unknown,Adult,2.737880811060884
+75,1,3,"Bing, Mr. Lee",male,32.0,0,0,1601,56.4958,Unknown,S,1,1,Unknown,Adult,4.05171190165724
+76,0,3,"Moen, Mr. Sigurd Hansen",male,25.0,0,0,348123,7.65,F G73,S,1,1,F,Adult,2.157559320943788
+77,0,3,"Staneff, Mr. Ivan",male,28.0,0,0,349208,7.8958,Unknown,S,1,1,Unknown,Adult,2.1855792552411137
+78,0,3,"Moutal, Mr. Rahamin Haim",male,28.0,0,0,374746,8.05,Unknown,S,1,1,Unknown,Adult,2.2027647577118348
+79,1,2,"Caldwell, Master. Alden Gates",male,0.83,0,2,248738,29.0,Unknown,S,3,0,Unknown,Child,3.4011973816621555
+80,1,3,"Dowdell, Miss. Elizabeth",female,30.0,0,0,364516,12.475,Unknown,S,1,1,Unknown,Adult,2.600836116795061
+81,0,3,"Waelens, Mr. Achille",male,22.0,0,0,345767,9.0,Unknown,S,1,1,Unknown,Adult,2.302585092994046
+82,1,3,"Sheerlinck, Mr. Jan Baptist",male,29.0,0,0,345779,9.5,Unknown,S,1,1,Unknown,Adult,2.3513752571634776
+83,1,3,"McDermott, Miss. Brigdet Delia",female,28.0,0,0,330932,7.7875,Unknown,Q,1,1,Unknown,Adult,2.1733302571367834
+84,0,1,"Carrau, Mr. Francisco M",male,28.0,0,0,113059,47.1,Unknown,S,1,1,Unknown,Adult,3.8732821771117156
+85,1,2,"Ilett, Miss. Bertha",female,17.0,0,0,SO/C 14885,10.5,Unknown,S,1,1,Unknown,Teen,2.4423470353692043
+86,1,3,"Backstrom, Mrs. Karl Alfred (Maria Mathilda Gustafsson)",female,33.0,3,0,3101278,15.85,Unknown,S,4,0,Unknown,Adult,2.8243506567983707
+87,0,3,"Ford, Mr. William Neal",male,16.0,1,3,W./C. 6608,34.375,Unknown,S,5,0,Unknown,Teen,3.5660053559634015
+88,0,3,"Slocovski, Mr. Selman Francis",male,28.0,0,0,SOTON/OQ 392086,8.05,Unknown,S,1,1,Unknown,Adult,2.2027647577118348
+89,1,1,"Fortune, Miss. Mabel Helen",female,23.0,3,2,19950,263.0,C23 C25 C27,S,6,0,C,Adult,5.575949103146316
+90,0,3,"Celotti, Mr. Francesco",male,24.0,0,0,343275,8.05,Unknown,S,1,1,Unknown,Adult,2.2027647577118348
+91,0,3,"Christmann, Mr. Emil",male,29.0,0,0,343276,8.05,Unknown,S,1,1,Unknown,Adult,2.2027647577118348
+92,0,3,"Andreasson, Mr. Paul Edvin",male,20.0,0,0,347466,7.8542,Unknown,S,1,1,Unknown,Teen,2.180891922715322
+93,0,1,"Chaffee, Mr. Herbert Fuller",male,46.0,1,0,W.E.P. 5734,61.175,E31,S,2,0,E,MiddleAge,4.1299529896894684
+94,0,3,"Dean, Mr. Bertram Frank",male,26.0,1,2,C.A. 2315,20.575,Unknown,S,4,0,Unknown,Adult,3.0715352369694915
+95,0,3,"Coxon, Mr. Daniel",male,59.0,0,0,364500,7.25,Unknown,S,1,1,Unknown,MiddleAge,2.1102132003465894
+96,0,3,"Shorney, Mr. Charles Joseph",male,28.0,0,0,374910,8.05,Unknown,S,1,1,Unknown,Adult,2.2027647577118348
+97,0,1,"Goldschmidt, Mr. George B",male,71.0,0,0,PC 17754,34.6542,A5,C,1,1,A,Senior,3.57386695198272
+98,1,1,"Greenfield, Mr. William Bertram",male,23.0,0,1,PC 17759,63.3583,D10 D12,C,2,0,D,Adult,4.164465907853638
+99,1,2,"Doling, Mrs. John T (Ada Julia Bone)",female,34.0,0,1,231919,23.0,Unknown,S,2,0,Unknown,Adult,3.1780538303479458
+100,0,2,"Kantor, Mr. Sinai",male,34.0,1,0,244367,26.0,Unknown,S,2,0,Unknown,Adult,3.295836866004329
+101,0,3,"Petranec, Miss. Matilda",female,28.0,0,0,349245,7.8958,Unknown,S,1,1,Unknown,Adult,2.1855792552411137
+102,0,3,"Petroff, Mr. Pastcho (""Pentcho"")",male,28.0,0,0,349215,7.8958,Unknown,S,1,1,Unknown,Adult,2.1855792552411137
+103,0,1,"White, Mr. Richard Frasar",male,21.0,0,1,35281,77.2875,D26,S,2,0,D,Adult,4.360387947851531
+104,0,3,"Johansson, Mr. Gustaf Joel",male,33.0,0,0,7540,8.6542,Unknown,S,1,1,Unknown,Adult,2.267393053825037
+105,0,3,"Gustafsson, Mr. Anders Vilhelm",male,37.0,2,0,3101276,7.925,Unknown,S,3,0,Unknown,Adult,2.188856327665703
+106,0,3,"Mionoff, Mr. Stoytcho",male,28.0,0,0,349207,7.8958,Unknown,S,1,1,Unknown,Adult,2.1855792552411137
+107,1,3,"Salkjelsvik, Miss. Anna Kristine",female,21.0,0,0,343120,7.65,Unknown,S,1,1,Unknown,Adult,2.157559320943788
+108,1,3,"Moss, Mr. Albert Johan",male,28.0,0,0,312991,7.775,Unknown,S,1,1,Unknown,Adult,2.1719067693519296
+109,0,3,"Rekic, Mr. Tido",male,38.0,0,0,349249,7.8958,Unknown,S,1,1,Unknown,Adult,2.1855792552411137
+110,1,3,"Moran, Miss. Bertha",female,28.0,1,0,371110,24.15,Unknown,Q,2,0,Unknown,Adult,3.224857896545748
+111,0,1,"Porter, Mr. Walter Chamberlain",male,47.0,0,0,110465,52.0,C110,S,1,1,C,MiddleAge,3.970291913552122
+112,0,3,"Zabour, Miss. Hileni",female,14.5,1,0,2665,14.4542,Unknown,C,2,0,Unknown,Teen,2.737880811060884
+113,0,3,"Barton, Mr. David John",male,22.0,0,0,324669,8.05,Unknown,S,1,1,Unknown,Adult,2.2027647577118348
+114,0,3,"Jussila, Miss. Katriina",female,20.0,1,0,4136,9.825,Unknown,S,2,0,Unknown,Teen,2.3818582738885534
+115,0,3,"Attalah, Miss. Malake",female,17.0,0,0,2627,14.4583,Unknown,C,1,1,Unknown,Teen,2.738146075922933
+116,0,3,"Pekoniemi, Mr. Edvard",male,21.0,0,0,STON/O 2. 3101294,7.925,Unknown,S,1,1,Unknown,Adult,2.188856327665703
+117,0,3,"Connors, Mr. Patrick",male,70.5,0,0,370369,7.75,Unknown,Q,1,1,Unknown,Senior,2.169053700369523
+118,0,2,"Turpin, Mr. William John Robert",male,29.0,1,0,11668,21.0,Unknown,S,2,0,Unknown,Adult,3.091042453358316
+119,0,1,"Baxter, Mr. Quigg Edmond",male,24.0,0,1,PC 17558,247.5208,B58 B60,C,2,0,B,Adult,5.515526544247129
+120,0,3,"Andersson, Miss. Ellis Anna Maria",female,2.0,4,2,347082,31.275,Unknown,S,7,0,Unknown,Child,3.4742929367327062
+121,0,2,"Hickman, Mr. Stanley George",male,21.0,2,0,S.O.C. 14879,73.5,Unknown,S,3,0,Unknown,Adult,4.310799125385514
+122,0,3,"Moore, Mr. Leonard Charles",male,28.0,0,0,A4. 54510,8.05,Unknown,S,1,1,Unknown,Adult,2.2027647577118348
+123,0,2,"Nasser, Mr. Nicholas",male,32.5,1,0,237736,30.0708,Unknown,C,2,0,Unknown,Adult,3.436268471383741
+124,1,2,"Webber, Miss. Susan",female,32.5,0,0,27267,13.0,E101,S,1,1,E,Adult,2.6390573296152584
+125,0,1,"White, Mr. Percival Wayland",male,54.0,0,1,35281,77.2875,D26,S,2,0,D,MiddleAge,4.360387947851531
+126,1,3,"Nicola-Yarred, Master. Elias",male,12.0,1,0,2651,11.2417,Unknown,C,2,0,Unknown,Child,2.5048481563289
+127,0,3,"McMahon, Mr. Martin",male,28.0,0,0,370372,7.75,Unknown,Q,1,1,Unknown,Adult,2.169053700369523
+128,1,3,"Madsen, Mr. Fridtjof Arne",male,24.0,0,0,C 17369,7.1417,Unknown,S,1,1,Unknown,Adult,2.0969990034181696
+129,1,3,"Peter, Miss. Anna",female,28.0,1,1,2668,22.3583,F E69,C,3,0,F,Adult,3.1509523813392697
+130,0,3,"Ekstrom, Mr. Johan",male,45.0,0,0,347061,6.975,Unknown,S,1,1,Unknown,MiddleAge,2.076311648670908
+131,0,3,"Drazenoic, Mr. Jozef",male,33.0,0,0,349241,7.8958,Unknown,C,1,1,Unknown,Adult,2.1855792552411137
+132,0,3,"Coelho, Mr. Domingos Fernandeo",male,20.0,0,0,SOTON/O.Q. 3101307,7.05,Unknown,S,1,1,Unknown,Teen,2.0856720914304723
+133,0,3,"Robins, Mrs. Alexander A (Grace Charity Laury)",female,47.0,1,0,A/5. 3337,14.5,Unknown,S,2,0,Unknown,MiddleAge,2.740840023925201
+134,1,2,"Weisz, Mrs. Leopold (Mathilde Francoise Pede)",female,29.0,1,0,228414,26.0,Unknown,S,2,0,Unknown,Adult,3.295836866004329
+135,0,2,"Sobey, Mr. Samuel James Hayden",male,25.0,0,0,C.A. 29178,13.0,Unknown,S,1,1,Unknown,Adult,2.6390573296152584
+136,0,2,"Richard, Mr. Emile",male,23.0,0,0,SC/PARIS 2133,15.0458,Unknown,C,1,1,Unknown,Adult,2.775447133088262
+137,1,1,"Newsom, Miss. Helen Monypeny",female,19.0,0,2,11752,26.2833,D47,S,3,0,D,Teen,3.3062747934011893
+138,0,1,"Futrelle, Mr. Jacques Heath",male,37.0,1,0,113803,53.1,C123,S,2,0,C,Adult,3.9908341858524357
+139,0,3,"Osen, Mr. Olaf Elon",male,16.0,0,0,7534,9.2167,Unknown,S,1,1,Unknown,Teen,2.3240236363515288
+140,0,1,"Giglio, Mr. Victor",male,24.0,0,0,PC 17593,79.2,B86,C,1,1,B,Adult,4.384523514872469
+141,0,3,"Boulos, Mrs. Joseph (Sultana)",female,28.0,0,2,2678,15.2458,Unknown,C,3,0,Unknown,Adult,2.7878344138303452
+142,1,3,"Nysten, Miss. Anna Sofia",female,22.0,0,0,347081,7.75,Unknown,S,1,1,Unknown,Adult,2.169053700369523
+143,1,3,"Hakkarainen, Mrs. Pekka Pietari (Elin Matilda Dolck)",female,24.0,1,0,STON/O2. 3101279,15.85,Unknown,S,2,0,Unknown,Adult,2.8243506567983707
+144,0,3,"Burke, Mr. Jeremiah",male,19.0,0,0,365222,6.75,Unknown,Q,1,1,Unknown,Teen,2.0476928433652555
+145,0,2,"Andrew, Mr. Edgardo Samuel",male,18.0,0,0,231945,11.5,Unknown,S,1,1,Unknown,Teen,2.5257286443082556
+146,0,2,"Nicholls, Mr. Joseph Charles",male,19.0,1,1,C.A. 33112,36.75,Unknown,S,3,0,Unknown,Teen,3.6309854756950335
+147,1,3,"Andersson, Mr. August Edvard (""Wennerstrom"")",male,27.0,0,0,350043,7.7958,Unknown,S,1,1,Unknown,Adult,2.174274334826008
+148,0,3,"Ford, Miss. Robina Maggie ""Ruby""",female,9.0,2,2,W./C. 6608,34.375,Unknown,S,5,0,Unknown,Child,3.5660053559634015
+149,0,2,"Navratil, Mr. Michel (""Louis M Hoffman"")",male,36.5,0,2,230080,26.0,F2,S,3,0,F,Adult,3.295836866004329
+150,0,2,"Byles, Rev. Thomas Roussel Davids",male,42.0,0,0,244310,13.0,Unknown,S,1,1,Unknown,MiddleAge,2.6390573296152584
+151,0,2,"Bateman, Rev. Robert James",male,51.0,0,0,S.O.P. 1166,12.525,Unknown,S,1,1,Unknown,MiddleAge,2.6045398247325453
+152,1,1,"Pears, Mrs. Thomas (Edith Wearne)",female,22.0,1,0,113776,66.6,C2,S,2,0,C,Adult,4.213607983048918
+153,0,3,"Meo, Mr. Alfonzo",male,55.5,0,0,A.5. 11206,8.05,Unknown,S,1,1,Unknown,MiddleAge,2.2027647577118348
+154,0,3,"van Billiard, Mr. Austin Blyler",male,40.5,0,2,A/5. 851,14.5,Unknown,S,3,0,Unknown,MiddleAge,2.740840023925201
+155,0,3,"Olsen, Mr. Ole Martin",male,28.0,0,0,Fa 265302,7.3125,Unknown,S,1,1,Unknown,Adult,2.1177604059819726
+156,0,1,"Williams, Mr. Charles Duane",male,51.0,0,1,PC 17597,61.3792,Unknown,C,2,0,Unknown,MiddleAge,4.133231886474144
+157,1,3,"Gilnagh, Miss. Katherine ""Katie""",female,16.0,0,0,35851,7.7333,Unknown,Q,1,1,Unknown,Teen,2.167143305297764
+158,0,3,"Corn, Mr. Harry",male,30.0,0,0,SOTON/OQ 392090,8.05,Unknown,S,1,1,Unknown,Adult,2.2027647577118348
+159,0,3,"Smiljanic, Mr. Mile",male,28.0,0,0,315037,8.6625,Unknown,S,1,1,Unknown,Adult,2.2682524139135403
+160,0,3,"Sage, Master. Thomas Henry",male,28.0,8,2,CA. 2343,69.55,Unknown,S,11,0,Unknown,Adult,4.256321678298823
+161,0,3,"Cribb, Mr. John Hatfield",male,44.0,0,1,371362,16.1,Unknown,S,2,0,Unknown,MiddleAge,2.8390784635086144
+162,1,2,"Watt, Mrs. James (Elizabeth ""Bessie"" Inglis Milne)",female,40.0,0,0,C.A. 33595,15.75,Unknown,S,1,1,Unknown,Adult,2.8183982582710754
+163,0,3,"Bengtsson, Mr. John Viktor",male,26.0,0,0,347068,7.775,Unknown,S,1,1,Unknown,Adult,2.1719067693519296
+164,0,3,"Calic, Mr. Jovo",male,17.0,0,0,315093,8.6625,Unknown,S,1,1,Unknown,Teen,2.2682524139135403
+165,0,3,"Panula, Master. Eino Viljami",male,1.0,4,1,3101295,39.6875,Unknown,S,6,0,Unknown,Child,3.705920919968788
+166,1,3,"Goldsmith, Master. Frank John William ""Frankie""",male,9.0,0,2,363291,20.525,Unknown,S,3,0,Unknown,Child,3.0692150503137943
+167,1,1,"Chibnall, Mrs. (Edith Martha Bowerman)",female,28.0,0,1,113505,55.0,E33,S,2,0,E,Adult,4.02535169073515
+168,0,3,"Skoog, Mrs. William (Anna Bernhardina Karlsson)",female,45.0,1,4,347088,27.9,Unknown,S,6,0,Unknown,MiddleAge,3.3638415951183864
+169,0,1,"Baumann, Mr. John D",male,28.0,0,0,PC 17318,25.925,Unknown,S,1,1,Unknown,Adult,3.2930552230424524
+170,0,3,"Ling, Mr. Lee",male,28.0,0,0,1601,56.4958,Unknown,S,1,1,Unknown,Adult,4.05171190165724
+171,0,1,"Van der hoef, Mr. Wyckoff",male,61.0,0,0,111240,33.5,B19,S,1,1,B,Senior,3.5409593240373143
+172,0,3,"Rice, Master. Arthur",male,4.0,4,1,382652,29.125,Unknown,Q,6,0,Unknown,Child,3.405355391810819
+173,1,3,"Johnson, Miss. Eleanor Ileen",female,1.0,1,1,347742,11.1333,Unknown,S,3,0,Unknown,Child,2.495953738718064
+174,0,3,"Sivola, Mr. Antti Wilhelm",male,21.0,0,0,STON/O 2. 3101280,7.925,Unknown,S,1,1,Unknown,Adult,2.188856327665703
+175,0,1,"Smith, Mr. James Clinch",male,56.0,0,0,17764,30.6958,A7,C,1,1,A,MiddleAge,3.4561841799918147
+176,0,3,"Klasen, Mr. Klas Albin",male,18.0,1,1,350404,7.8542,Unknown,S,3,0,Unknown,Teen,2.180891922715322
+177,0,3,"Lefebre, Master. Henry Forbes",male,28.0,3,1,4133,25.4667,Unknown,S,5,0,Unknown,Adult,3.275887339030031
+178,0,1,"Isham, Miss. Ann Elizabeth",female,50.0,0,0,PC 17595,28.7125,C49,C,1,1,C,MiddleAge,3.391567832686312
+179,0,2,"Hale, Mr. Reginald",male,30.0,0,0,250653,13.0,Unknown,S,1,1,Unknown,Adult,2.6390573296152584
+180,0,3,"Leonard, Mr. Lionel",male,36.0,0,0,LINE,0.0,Unknown,S,1,1,Unknown,Adult,0.0
+181,0,3,"Sage, Miss. Constance Gladys",female,28.0,8,2,CA. 2343,69.55,Unknown,S,11,0,Unknown,Adult,4.256321678298823
+182,0,2,"Pernot, Mr. Rene",male,28.0,0,0,SC/PARIS 2131,15.05,Unknown,C,1,1,Unknown,Adult,2.775708849576025
+183,0,3,"Asplund, Master. Clarence Gustaf Hugo",male,9.0,4,2,347077,31.3875,Unknown,S,7,0,Unknown,Child,3.4777725458882283
+184,1,2,"Becker, Master. Richard F",male,1.0,2,1,230136,39.0,F4,S,4,0,F,Child,3.6888794541139363
+185,1,3,"Kink-Heilmann, Miss. Luise Gretchen",female,4.0,0,2,315153,22.025,Unknown,S,3,0,Unknown,Child,3.1365805821413706
+186,0,1,"Rood, Mr. Hugh Roscoe",male,28.0,0,0,113767,50.0,A32,S,1,1,A,Adult,3.9318256327243257
+187,1,3,"O'Brien, Mrs. Thomas (Johanna ""Hannah"" Godfrey)",female,28.0,1,0,370365,15.5,Unknown,Q,2,0,Unknown,Adult,2.803360380906535
+188,1,1,"Romaine, Mr. Charles Hallace (""Mr C Rolmane"")",male,45.0,0,0,111428,26.55,Unknown,S,1,1,Unknown,MiddleAge,3.3160025355989236
+189,0,3,"Bourke, Mr. John",male,40.0,1,1,364849,15.5,Unknown,Q,3,0,Unknown,Adult,2.803360380906535
+190,0,3,"Turcin, Mr. Stjepan",male,36.0,0,0,349247,7.8958,Unknown,S,1,1,Unknown,Adult,2.1855792552411137
+191,1,2,"Pinsky, Mrs. (Rosa)",female,32.0,0,0,234604,13.0,Unknown,S,1,1,Unknown,Adult,2.6390573296152584
+192,0,2,"Carbines, Mr. William",male,19.0,0,0,28424,13.0,Unknown,S,1,1,Unknown,Teen,2.6390573296152584
+193,1,3,"Andersen-Jensen, Miss. Carla Christine Nielsine",female,19.0,1,0,350046,7.8542,Unknown,S,2,0,Unknown,Teen,2.180891922715322
+194,1,2,"Navratil, Master. Michel M",male,3.0,1,1,230080,26.0,F2,S,3,0,F,Child,3.295836866004329
+195,1,1,"Brown, Mrs. James Joseph (Margaret Tobin)",female,44.0,0,0,PC 17610,27.7208,B4,C,1,1,B,MiddleAge,3.357621598945279
+196,1,1,"Lurette, Miss. Elise",female,58.0,0,0,PC 17569,146.5208,B80,C,1,1,B,MiddleAge,4.993969182787072
+197,0,3,"Mernagh, Mr. Robert",male,28.0,0,0,368703,7.75,Unknown,Q,1,1,Unknown,Adult,2.169053700369523
+198,0,3,"Olsen, Mr. Karl Siegwart Andreas",male,42.0,0,1,4579,8.4042,Unknown,S,2,0,Unknown,MiddleAge,2.2411563979973974
+199,1,3,"Madigan, Miss. Margaret ""Maggie""",female,28.0,0,0,370370,7.75,Unknown,Q,1,1,Unknown,Adult,2.169053700369523
+200,0,2,"Yrois, Miss. Henriette (""Mrs Harbeck"")",female,24.0,0,0,248747,13.0,Unknown,S,1,1,Unknown,Adult,2.6390573296152584

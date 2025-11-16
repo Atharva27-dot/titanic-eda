@@ -1,0 +1,51 @@
+PassengerId,Survived,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked,FamilySize,IsAlone,Deck,AgeGroup,Fare_log1p
+2,1,1,"Cumings, Mrs. John Bradley (Florence Briggs Thayer)",female,38.0,1,0,PC 17599,71.2833,C85,C,2,0,C,Adult,4.2805931204649
+28,0,1,"Fortune, Mr. Charles Alexander",male,19.0,3,2,19950,263.0,C23 C25 C27,S,6,0,C,Teen,5.575949103146316
+32,1,1,"Spencer, Mrs. William Augustus (Marie Eugenie)",female,28.0,1,0,PC 17569,146.5208,B78,C,2,0,B,Adult,4.993969182787072
+35,0,1,"Meyer, Mr. Edgar Joseph",male,28.0,1,0,PC 17604,82.1708,Unknown,C,2,0,Unknown,Adult,4.420896324687287
+53,1,1,"Harper, Mrs. Henry Sleeper (Myna Haxtun)",female,49.0,1,0,PC 17572,76.7292,D33,C,2,0,D,MiddleAge,4.353230991152628
+62,1,1,"Icard, Miss. Amelie",female,38.0,0,0,113572,80.0,B28,S,1,1,B,Adult,4.394449154672439
+63,0,1,"Harris, Mr. Henry Birkhardt",male,45.0,1,0,36973,83.475,C83,S,2,0,C,MiddleAge,4.436455632600354
+73,0,2,"Hood, Mr. Ambrose Jr",male,21.0,0,0,S.O.C. 14879,73.5,Unknown,S,1,1,Unknown,Adult,4.310799125385514
+89,1,1,"Fortune, Miss. Mabel Helen",female,23.0,3,2,19950,263.0,C23 C25 C27,S,6,0,C,Adult,5.575949103146316
+103,0,1,"White, Mr. Richard Frasar",male,21.0,0,1,35281,77.2875,D26,S,2,0,D,Adult,4.360387947851531
+119,0,1,"Baxter, Mr. Quigg Edmond",male,24.0,0,1,PC 17558,247.5208,B58 B60,C,2,0,B,Adult,5.515526544247129
+121,0,2,"Hickman, Mr. Stanley George",male,21.0,2,0,S.O.C. 14879,73.5,Unknown,S,3,0,Unknown,Adult,4.310799125385514
+125,0,1,"White, Mr. Percival Wayland",male,54.0,0,1,35281,77.2875,D26,S,2,0,D,MiddleAge,4.360387947851531
+140,0,1,"Giglio, Mr. Victor",male,24.0,0,0,PC 17593,79.2,B86,C,1,1,B,Adult,4.384523514872469
+152,1,1,"Pears, Mrs. Thomas (Edith Wearne)",female,22.0,1,0,113776,66.6,C2,S,2,0,C,Adult,4.213607983048918
+160,0,3,"Sage, Master. Thomas Henry",male,28.0,8,2,CA. 2343,69.55,Unknown,S,11,0,Unknown,Adult,4.256321678298823
+181,0,3,"Sage, Miss. Constance Gladys",female,28.0,8,2,CA. 2343,69.55,Unknown,S,11,0,Unknown,Adult,4.256321678298823
+196,1,1,"Lurette, Miss. Elise",female,58.0,0,0,PC 17569,146.5208,B80,C,1,1,B,MiddleAge,4.993969182787072
+202,0,3,"Sage, Mr. Frederick",male,28.0,8,2,CA. 2343,69.55,Unknown,S,11,0,Unknown,Adult,4.256321678298823
+216,1,1,"Newell, Miss. Madeleine",female,31.0,1,0,35273,113.275,D36,C,2,0,D,Adult,4.738607824217808
+219,1,1,"Bazzani, Miss. Albina",female,32.0,0,0,11813,76.2917,D15,C,1,1,D,Adult,4.347586575960343
+225,1,1,"Hoyt, Mr. Frederick Maxfield",male,38.0,1,0,19943,90.0,C93,S,2,0,C,Adult,4.51085950651685
+231,1,1,"Harris, Mrs. Henry Birkhardt (Irene Wallach)",female,35.0,1,0,36973,83.475,C83,S,2,0,C,Adult,4.436455632600354
+246,0,1,"Minahan, Dr. William Edward",male,44.0,2,0,19928,90.0,C78,Q,3,0,C,MiddleAge,4.51085950651685
+257,1,1,"Thorne, Mrs. Gertrude Maybelle",female,28.0,0,0,PC 17585,79.2,Unknown,C,1,1,Unknown,Adult,4.384523514872469
+258,1,1,"Cherry, Miss. Gladys",female,30.0,0,0,110152,86.5,B77,S,1,1,B,Adult,4.471638793363569
+259,1,1,"Ward, Miss. Anna",female,35.0,0,0,PC 17755,512.3292,Unknown,C,1,1,Unknown,Adult,6.240917354759096
+263,0,1,"Taussig, Mr. Emil",male,52.0,1,1,110413,79.65,E67,S,3,0,E,MiddleAge,4.390118804571218
+269,1,1,"Graham, Mrs. William Thompson (Edith Junkins)",female,58.0,0,1,PC 17582,153.4625,C125,S,2,0,C,MiddleAge,5.039951348430309
+270,1,1,"Bissette, Miss. Amelia",female,35.0,0,0,PC 17760,135.6333,C99,S,1,1,C,Adult,4.91730069488021
+276,1,1,"Andrews, Miss. Kornelia Theodosia",female,63.0,1,0,13502,77.9583,D7,S,2,0,D,Senior,4.368919865004903
+291,1,1,"Barber, Miss. Ellen ""Nellie""",female,26.0,0,0,19877,78.85,Unknown,S,1,1,Unknown,Adult,4.380149874661021
+292,1,1,"Bishop, Mrs. Dickinson H (Helen Walton)",female,19.0,1,0,11967,91.0792,B49,C,2,0,B,Teen,4.5226490762785785
+298,0,1,"Allison, Miss. Helen Loraine",female,2.0,1,2,113781,151.55,C22 C26,S,4,0,C,Child,5.027492411162679
+300,1,1,"Baxter, Mrs. James (Helene DeLaudeniere Chaput)",female,50.0,0,1,PC 17558,247.5208,B58 B60,C,2,0,B,MiddleAge,5.515526544247129
+306,1,1,"Allison, Master. Hudson Trevor",male,0.92,1,2,113781,151.55,C22 C26,S,4,0,C,Child,5.027492411162679
+307,1,1,"Fleming, Miss. Margaret",female,28.0,0,0,17421,110.8833,Unknown,C,1,1,Unknown,Adult,4.717456363787216
+308,1,1,"Penasco y Castellana, Mrs. Victor de Satode (Maria Josefa Perez de Soto y Vallejo)",female,17.0,1,0,PC 17758,108.9,C65,C,2,0,C,Teen,4.699570861409576
+311,1,1,"Hays, Miss. Margaret Bechstein",female,24.0,0,0,11767,83.1583,C54,C,1,1,C,Adult,4.432699549165613
+312,1,1,"Ryerson, Miss. Emily Borie",female,18.0,2,2,PC 17608,262.375,B57 B59 B63 B66,C,5,0,B,Teen,5.5735788721243535
+319,1,1,"Wick, Miss. Mary Natalie",female,31.0,0,2,36928,164.8667,C7,S,3,0,C,Adult,5.11118445372147
+320,1,1,"Spedden, Mrs. Frederic Oakley (Margaretta Corning Stone)",female,40.0,1,1,16966,134.5,E34,C,3,0,E,Adult,4.908971640319756
+325,0,3,"Sage, Mr. George John Jr",male,28.0,8,2,CA. 2343,69.55,Unknown,S,11,0,Unknown,Adult,4.256321678298823
+326,1,1,"Young, Miss. Marie Grice",female,36.0,0,0,PC 17760,135.6333,C32,C,1,1,C,Adult,4.91730069488021
+333,0,1,"Graham, Mr. George Edward",male,38.0,0,1,PC 17582,153.4625,C91,S,2,0,C,Adult,5.039951348430309
+335,1,1,"Frauenthal, Mrs. Henry William (Clara Heinsheimer)",female,28.0,1,0,PC 17611,133.65,Unknown,S,2,0,Unknown,Adult,4.902678819257608
+337,0,1,"Pears, Mr. Thomas Clinton",male,29.0,1,0,113776,66.6,C2,S,2,0,C,Adult,4.213607983048918
+338,1,1,"Burns, Miss. Elizabeth Margaret",female,41.0,0,0,16966,134.5,E40,C,1,1,E,MiddleAge,4.908971640319756
+342,1,1,"Fortune, Miss. Alice Elizabeth",female,24.0,3,2,19950,263.0,C23 C25 C27,S,6,0,C,Adult,5.575949103146316
+367,1,1,"Warren, Mrs. Frank Manley (Anna Sophia Atkinson)",female,60.0,1,0,110813,75.25,D37,C,2,0,D,MiddleAge,4.334017415487521
